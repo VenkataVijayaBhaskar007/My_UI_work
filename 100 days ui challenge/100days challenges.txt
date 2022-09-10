@@ -1,6 +1,6 @@
 # All DailyUI Challenges
 
-1. Sign Up ------------------------------------------> Lunar stories ?*
+1. Sign Up / Log in
 2. Credit Card Checkout
 3. Landing Page (above the fold)
 4. Calculator
