@@ -1,5 +1,5 @@
-# Hundred-days-UI-challenge
+# Hundred-days-UI-challenges
 
-I was doing 100 days UI challenge till my birthday.
+# List of ideas I have made so far
 
 
