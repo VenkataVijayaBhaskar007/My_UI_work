@@ -4,6 +4,8 @@
   
   2.Credit Card checkout
   
+  3.Landing Page
+  
   these challanges will be updated soon till they reach 100 challenges.....
 
 # List of ideas I have made so far
