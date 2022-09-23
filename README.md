@@ -6,6 +6,8 @@
   
   3.Landing Page
   
+  4.Calculator
+  
   these challanges will be updated soon till they reach 100 challenges.....
 
 # List of ideas I have made so far
