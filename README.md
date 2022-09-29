@@ -8,6 +8,8 @@
   
   4.Calculator
   
+  5.App Icon
+  
   These challanges will be updated soon till they reach 100 challenges.....
 
 # List of ideas I have made so far
