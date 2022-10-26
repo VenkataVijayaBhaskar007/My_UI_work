@@ -1,6 +1,6 @@
 # Hundred-days-UI-challenges
 
-  1.LOGIN & SIGNUP page ---> <a href="https://xd.adobe.com/view/16f9ad77-b836-4555-b5b3-8cbf76d3ed63-43aa/" > live demo </a>
+  1.LOGIN & SIGNUP page ---> <a href="https://xd.adobe.com/view/16f9ad77-b836-4555-b5b3-8cbf76d3ed63-43aa/" target= "_blank"> live demo </a>
   
   2.Credit Card Checkout
   
