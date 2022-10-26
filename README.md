@@ -10,6 +10,9 @@
   
   5.App Icon
   
+  
+  6.User Profile
+  
   These challanges will be updated soon till they reach 100 challenges.....
 
 # List of ideas I have made so far
