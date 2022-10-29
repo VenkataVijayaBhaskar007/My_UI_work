@@ -23,4 +23,4 @@
 2.'NCF' an event app design <a href="https://www.figma.com/proto/Uj7ttwrJqJLIUVCiAfDkSL/NCF-app?node-id=22%3A37&scaling=scale-down&page-id=0%3A1&starting-point-node-       id=22%3A37"> live demo </a>
 
 
-3. 'cactuz' an app to buy succulents and cactus <a href="https://www.figma.com/proto/ecsZpL09y64WBO2aDrpTTu/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">live demo</a>
+3.'cactuz' an app to buy succulents and cactus <a href="https://www.figma.com/proto/ecsZpL09y64WBO2aDrpTTu/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">live demo</a>
