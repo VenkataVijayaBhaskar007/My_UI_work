@@ -24,3 +24,6 @@
 
 
 3.'cactuz' an app to buy succulents and cactus <a href="https://www.figma.com/proto/ecsZpL09y64WBO2aDrpTTu/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">live demo</a>
+
+
+4.'daily tracker' an app to track overall body health statastics <a href="https://www.figma.com/proto/QDCp20XMcJbV0UwVJAAZsD/daily-tracker?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">live demo</a>
