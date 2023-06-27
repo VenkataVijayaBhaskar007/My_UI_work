@@ -32,3 +32,6 @@
 
 
 6.'hear' an app to shop earbuds and headphones <a href="https://www.figma.com/file/PCP0RyiJr9Vuz3u9izfn2M/hear?type=design&node-id=0%3A1&mode=design&t=tPI9KwKeUM2q3lko-1"> live demo</a>
+
+
+7. 'employee portal' an app like individual employee portal <a href="https://www.figma.com/file/ACT9S5gVgfbNaxiSd0a03a/employee-internal-site?type=design&node-id=0%3A1&mode=design&t=h9lbaQY8ZbpUHIHq-1"> live demo </a>
