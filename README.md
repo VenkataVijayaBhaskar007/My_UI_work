@@ -2,7 +2,7 @@
 
   1.LOGIN & SIGNUP page ---> <a href="https://xd.adobe.com/view/16f9ad77-b836-4555-b5b3-8cbf76d3ed63-43aa/" > live demo </a>
   
-  2.Credit Card Checkout   <img src="woman-being-connected-with-virtual-modern-tech.jpg" alt="..." onclick="window.open('anotherpage.html', '_blank');" />
+  2.Credit Card Checkout   <img src="test/woman-being-connected-with-virtual-modern-tech.jpg" alt="..." onclick="window.open('anotherpage.html', '_blank');" />
   
   3.Landing Page
   
