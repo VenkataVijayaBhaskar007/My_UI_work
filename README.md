@@ -29,3 +29,6 @@
 4.'daily tracker' an app to track overall body health statastics <a href="https://www.figma.com/proto/QDCp20XMcJbV0UwVJAAZsD/daily-tracker?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">live demo</a>
 
 5.'music app' a website to listen music <a href="https://xd.adobe.com/view/709ca14d-3d38-4158-acec-ea680778f797-25cf/?hints=off"> live demo </a>
+
+
+6.'hear' an app to shop earbuds and headphones <a href="https://www.figma.com/file/PCP0RyiJr9Vuz3u9izfn2M/hear?type=design&node-id=0%3A1&mode=design&t=tPI9KwKeUM2q3lko-1"> live demo</a>
