@@ -36,3 +36,5 @@
 7.'employee portal' an app like individual employee portal <a href="https://www.figma.com/file/ACT9S5gVgfbNaxiSd0a03a/employee-internal-site?type=design&node-id=0%3A1&mode=design&t=h9lbaQY8ZbpUHIHq-1"> live demo </a>
 
 8.'JRS' a website for school <a href="https://www.figma.com/proto/wZnCtPxAlzhkiJEsoARsRW/JRS?type=design&t=qYS2q4oKCLVoKeDX-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&node-id=1-2&mode=design"> live demo </a>
+
+9.'' a website for startup company which builds web&mobile apps for clients <a href="https://www.figma.com/proto/ODVZVZstA0EhbfLBQ3oHUN/freelance-project?type=design&node-id=5-720&t=3i6xk7HVK5CkkxfR-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A720&mode=design"> live demo </a>
