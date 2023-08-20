@@ -15,7 +15,7 @@
   
   These challanges will be updated soon till they reach 100 challenges.....
 
-# List of ideas I have made so far
+# List of new projects
 
 1.'Tripsy' a Travel website design of India. <a href = "https://xd.adobe.com/view/066a0216-9401-4603-80e8-fd4bca293eef-5339/" > live demo </a>
   
@@ -34,3 +34,5 @@
 6.'hear' an app to shop earbuds and headphones <a href="https://www.figma.com/file/PCP0RyiJr9Vuz3u9izfn2M/hear?type=design&node-id=0%3A1&mode=design&t=tPI9KwKeUM2q3lko-1"> live demo</a>
 
 7.'employee portal' an app like individual employee portal <a href="https://www.figma.com/file/ACT9S5gVgfbNaxiSd0a03a/employee-internal-site?type=design&node-id=0%3A1&mode=design&t=h9lbaQY8ZbpUHIHq-1"> live demo </a>
+
+8.'JRS' a website for school <a href="https://www.figma.com/proto/wZnCtPxAlzhkiJEsoARsRW/JRS?type=design&t=qYS2q4oKCLVoKeDX-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&node-id=1-2&mode=design"> live demo </a>
