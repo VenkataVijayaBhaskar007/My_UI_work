@@ -38,3 +38,5 @@
 8.'JRS' a website for school <a href="https://www.figma.com/proto/wZnCtPxAlzhkiJEsoARsRW/JRS?type=design&t=qYS2q4oKCLVoKeDX-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&node-id=1-2&mode=design"> live demo </a>
 
 9.'' a website for startup company which builds web&mobile apps for clients <a href="https://www.figma.com/proto/ODVZVZstA0EhbfLBQ3oHUN/freelance-project?type=design&node-id=5-720&t=3i6xk7HVK5CkkxfR-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A720&mode=design"> live demo </a>
+
+10.'Anime World' a website for Anime livestream <a href="https://www.figma.com/proto/TLIi3mTPfL0LIjNkrbc8yK/Anime-streaming-web-ui?type=design&node-id=4-139&t=1CsUwMTCySMA1j2Z-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A139"> live demo </a>
