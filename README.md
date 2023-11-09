@@ -40,3 +40,5 @@
 9.'' a website for startup company which builds web&mobile apps for clients <a href="https://www.figma.com/proto/ODVZVZstA0EhbfLBQ3oHUN/freelance-project?type=design&node-id=5-720&t=3i6xk7HVK5CkkxfR-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A720&mode=design"> live demo </a>
 
 10.'Anime World' a website for Anime livestream <a href="https://www.figma.com/proto/TLIi3mTPfL0LIjNkrbc8yK/Anime-streaming-web-ui?type=design&node-id=4-139&t=1CsUwMTCySMA1j2Z-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A139"> live demo </a>
+
+11.'Atoms group' a complete website for a software and multigrouped company <a href="https://www.figma.com/proto/jyjXfIuDDctxEh3xOJlYyR/ATOMS-GROUP?type=design&node-id=3-57&t=HVwmBm89O2lBLUUh-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A57"> live demo </a>
